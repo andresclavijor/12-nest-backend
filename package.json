@@ -5,8 +5,8 @@
   "author": "",
   "private": true,
   "license": "UNLICENSED",
-  "engines":{
-    "node":"18.16.0"
+  "engines": {
+    "node": "18.16.0"
   },
   "scripts": {
     "build": "nest build",
@@ -30,6 +30,7 @@
     "@nestjs/mapped-types": "*",
     "@nestjs/mongoose": "^10.0.1",
     "@nestjs/platform-express": "^10.0.0",
+    "@types/passport": "^1.0.12",
     "bcryptjs": "^2.4.3",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.0",
